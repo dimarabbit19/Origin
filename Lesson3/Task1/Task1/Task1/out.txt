@@ -1,0 +1,4 @@
+3
+Polotsk, Mira, 85, 64
+Omsk, Pushkina, 2, 13
+Moscow, Molodeznay, 34, 12
