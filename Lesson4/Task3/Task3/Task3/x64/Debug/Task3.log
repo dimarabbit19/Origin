@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Homework\Lesson4\Task3\Task3\Task3\FileName.cpp(39,46): error C2065: M_PI: необъявленный идентификатор
+C:\Homework\Lesson4\Task3\Task3\Task3\FileName.cpp(40,53): error C2065: M_PI: необъявленный идентификатор
+C:\Homework\Lesson4\Task3\Task3\Task3\FileName.cpp(38,19): error C2661: Triangle::Triangle: нет перегруженной функции, принимающей 4 аргументов
+C:\Homework\Lesson4\Task3\Task3\Task3\FileName.cpp(38,19): message : при попытке сопоставить список аргументов "(double, double, double, double)"
+C:\Homework\Lesson4\Task3\Task3\Task3\FileName.cpp(118,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
