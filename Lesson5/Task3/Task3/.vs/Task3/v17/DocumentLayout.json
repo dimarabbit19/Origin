@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Homework\\Lesson5\\Task3\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\equilateraltriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\equilateraltriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\isoscelestriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\isoscelestriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\righttriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\righttriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF02196-3FCB-448F-93D6-947557E261BD}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rhombus.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.cpp",
+              "RelativeDocumentMoniker": "Task3\\rhombus.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.cpp",
+              "RelativeToolTip": "Task3\\rhombus.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:39:08.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "parallelogram.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.cpp",
+              "RelativeDocumentMoniker": "Task3\\parallelogram.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.cpp",
+              "RelativeToolTip": "Task3\\parallelogram.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:37:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parallelogram.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.h",
+              "RelativeDocumentMoniker": "Task3\\parallelogram.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\parallelogram.h",
+              "RelativeToolTip": "Task3\\parallelogram.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:37:23.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "square.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.cpp",
+              "RelativeDocumentMoniker": "Task3\\square.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.cpp",
+              "RelativeToolTip": "Task3\\square.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:36:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "square.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.h",
+              "RelativeDocumentMoniker": "Task3\\square.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\square.h",
+              "RelativeToolTip": "Task3\\square.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:36:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.cpp",
+              "RelativeDocumentMoniker": "Task3\\rectangle.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.cpp",
+              "RelativeToolTip": "Task3\\rectangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:35:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rectangle.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.h",
+              "RelativeDocumentMoniker": "Task3\\rectangle.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rectangle.h",
+              "RelativeToolTip": "Task3\\rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:33:09.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "equilateraltriangle.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.cpp",
+              "RelativeDocumentMoniker": "Task3\\equilateraltriangle.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.cpp",
+              "RelativeToolTip": "Task3\\equilateraltriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:31:17.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "equilateraltriangle.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.h",
+              "RelativeDocumentMoniker": "Task3\\equilateraltriangle.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\equilateraltriangle.h",
+              "RelativeToolTip": "Task3\\equilateraltriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:28:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "isoscelestriangle.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.cpp",
+              "RelativeDocumentMoniker": "Task3\\isoscelestriangle.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.cpp",
+              "RelativeToolTip": "Task3\\isoscelestriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:27:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "isoscelestriangle.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.h",
+              "RelativeDocumentMoniker": "Task3\\isoscelestriangle.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\isoscelestriangle.h",
+              "RelativeToolTip": "Task3\\isoscelestriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:27:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Main.cpp",
+              "RelativeDocumentMoniker": "Task3\\Main.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Main.cpp",
+              "RelativeToolTip": "Task3\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:18:49.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rhombus.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.h",
+              "RelativeDocumentMoniker": "Task3\\rhombus.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\rhombus.h",
+              "RelativeToolTip": "Task3\\rhombus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:38:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "righttriangle.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.cpp",
+              "RelativeDocumentMoniker": "Task3\\righttriangle.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.cpp",
+              "RelativeToolTip": "Task3\\righttriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:26:28.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "righttriangle.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.h",
+              "RelativeDocumentMoniker": "Task3\\righttriangle.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\righttriangle.h",
+              "RelativeToolTip": "Task3\\righttriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:25:51.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "triangle.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.cpp",
+              "RelativeDocumentMoniker": "Task3\\triangle.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.cpp",
+              "RelativeToolTip": "Task3\\triangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:24:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "triangle.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.h",
+              "RelativeDocumentMoniker": "Task3\\triangle.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\triangle.h",
+              "RelativeToolTip": "Task3\\triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:24:16.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shape.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.cpp",
+              "RelativeDocumentMoniker": "Task3\\Shape.cpp",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.cpp",
+              "RelativeToolTip": "Task3\\Shape.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:23:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shape.h",
+              "DocumentMoniker": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.h",
+              "RelativeDocumentMoniker": "Task3\\Shape.h",
+              "ToolTip": "C:\\Homework\\Lesson5\\Task3\\Task3\\Task3\\Shape.h",
+              "RelativeToolTip": "Task3\\Shape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T19:21:36.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
