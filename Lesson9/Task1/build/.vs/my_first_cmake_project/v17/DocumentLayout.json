@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Homework\\Lesson9\\Task1\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EE6576-0FDB-3DE8-9E41-72628C6B57FD}|my_first_cmake_project.vcxproj|C:\\Homework\\Lesson9\\Task1\\src\\my_first_cmake_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my_first_cmake_program.cpp",
+              "DocumentMoniker": "C:\\Homework\\Lesson9\\Task1\\src\\my_first_cmake_program.cpp",
+              "RelativeDocumentMoniker": "..\\src\\my_first_cmake_program.cpp",
+              "ToolTip": "C:\\Homework\\Lesson9\\Task1\\src\\my_first_cmake_program.cpp",
+              "RelativeToolTip": "..\\src\\my_first_cmake_program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T09:35:15.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

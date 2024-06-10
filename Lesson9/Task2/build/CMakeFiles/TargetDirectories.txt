@@ -1,0 +1,3 @@
+C:/Homework/Lesson9/Task2/build/CMakeFiles/my_first_cmake_program.dir
+C:/Homework/Lesson9/Task2/build/CMakeFiles/ALL_BUILD.dir
+C:/Homework/Lesson9/Task2/build/CMakeFiles/ZERO_CHECK.dir
