@@ -1,0 +1,8 @@
+/home/nikita/Desktop/project/build/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/build/LeaverLib/CMakeFiles/LeaverLib.dir
+/home/nikita/Desktop/project/build/LeaverLib/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/build/LeaverLib/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/build/LeaverApp/CMakeFiles/LeaverApp.dir
+/home/nikita/Desktop/project/build/LeaverApp/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/build/LeaverApp/CMakeFiles/rebuild_cache.dir

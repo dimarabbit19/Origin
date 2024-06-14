@@ -1,0 +1,7 @@
+﻿  LeaverLib.cpp
+C:\Users\admin\source\repos\Project\DLL\LeaverLib.cpp(3,21): warning C4273: Leaver::leave: несовместимое связывание dll
+  C:\Users\admin\source\repos\Project\DLL\Leaverlib.h(13,17):
+  см. предыдущее определение "leave"
+  
+     Создается библиотека C:\Users\admin\source\repos\Project\x64\Debug\DLL.lib и объект C:\Users\admin\source\repos\Project\x64\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\admin\source\repos\Project\x64\Debug\DLL.dll

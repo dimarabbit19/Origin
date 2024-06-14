@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/LeaverApp.dir/src/main.cpp.o -o LeaverApp  -Wl,-rpath,/home/nikita/Desktop/project/build/LeaverLib ../LeaverLib/libLeaverLib.so 
