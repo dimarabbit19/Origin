@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Homework\Lesson11\Task2\Task2\Task2\main.cpp(7,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Homework\Lesson11\Task2\Task2\Task2\main.cpp(25,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Task2.vcxproj -> C:\Homework\Lesson11\Task2\Task2\x64\Debug\Task2.exe
